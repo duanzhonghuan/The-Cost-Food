@@ -1,2 +1,2 @@
-# The-Cost-Food
-食物的花费清单
+# TheCost
+花费清单
